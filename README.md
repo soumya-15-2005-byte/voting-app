@@ -3,6 +3,7 @@ This is a backend application for a voting system where users can vote for candi
 
 
 https://github.com/soumya-15-2005-byte/voting-app
+https://github.com/soumya-15-2005-byte/voting-app/tree/main/voting_app
 Features
 User sign up and login with Aadhar Card Number and password
 User can view the list of candidates
