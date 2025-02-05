@@ -1,4 +1,3 @@
-# voting-app
 Voting Application
 This is a backend application for a voting system where users can vote for candidates. It provides functionalities for user authentication, candidate management, and voting.
 
@@ -14,6 +13,9 @@ Express.js
 MongoDB
 JSON Web Tokens (JWT) for authentication
 Installation
+Clone the repository:
+
+git clone https://github.com/Prince-1501/voting_app.git
 
 API Endpoints
 Authentication
