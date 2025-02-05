@@ -14,9 +14,6 @@ Express.js
 MongoDB
 JSON Web Tokens (JWT) for authentication
 Installation
-Clone the repository:
-
-git clone https://github.com/soumya-15-2005-byte/voting-app.git
 
 API Endpoints
 Authentication
